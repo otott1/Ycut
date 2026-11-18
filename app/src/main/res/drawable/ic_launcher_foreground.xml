@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- مثلث التشغيل -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M43,30 L43,62 L69,46 Z" />
+    <!-- شريط الفيديو -->
+    <path
+        android:fillColor="#66FFFFFF"
+        android:pathData="M33,72 L75,72 A3,3 0 0 1 75,78 L33,78 A3,3 0 0 1 33,72 Z" />
+    <!-- المقطع المقتطع -->
+    <path
+        android:fillColor="#E0A93B"
+        android:pathData="M47,71 L63,71 L63,79 L47,79 Z" />
+</vector>
